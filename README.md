@@ -68,7 +68,7 @@ The solution implements a multi-step agent architecture:
 ## 🎯 Example Use Case
 
 The example below demonstrates how the agentic RAG improves response quality compared to baseline RAG:
-This example is from an Infineon community forum post. Infineon has over 1000 repositories.
+This example is from an Infineon community forum post. Infineon has over 1000 code repositories.
 
 ![Context Refinement Example](images/example.png)
 
